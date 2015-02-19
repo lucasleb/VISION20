@@ -1,6 +1,12 @@
-$body-bg: #ecf0f1;
-$navbar-inverse-bg: #27ae60;
+body {
+     background: url(https://upload.wikimedia.org/wikipedia/commons/4/4e/Pleiades_large.jpg);
+     background-size: cover;
+     ;
+}
+
+$navbar-inverse-bg: white;
 $navbar-inverse-link-color: white;
 $brand-primary: #f39c12;
 $jumbotron-bg: #bdc3c7;
 @import 'bootstrap';
+
