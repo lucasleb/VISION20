@@ -4,6 +4,14 @@ body {
      ;
 }
 
+.jumbotron {
+	align-content: center
+}
+
+.nav navbar-nav active {
+	text-align: center
+}
+
 $navbar-inverse-bg: white;
 $navbar-inverse-link-color: white;
 $brand-primary: #f39c12;
